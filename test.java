@@ -1,1 +1,3 @@
-this code is added by jdv1
+<<<<<<< HEAD
+final commit
+>>>>>>> jdev2
